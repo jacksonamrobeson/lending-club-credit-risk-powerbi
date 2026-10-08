@@ -2,11 +2,9 @@
 
 Power BI analysis of **2.26 million LendingClub consumer loans (2007-2018)**, built to answer one question: does a lender's pricing compensate for the risk it takes on?
 
-**Full write-up:** [Building a Credit Risk Dashboard in Power BI: What 2.26 Million Loans Reveal About a Pricing Gap at the Riskiest Grades] (https://jacksonamrobeson.blogspot.com/2026/09/building-credit-risk-dashboard-in-power.html)
+**Full write-up:** [Building a Credit Risk Dashboard in Power BI: 2.26 Million Loans Reveal Key Findings in Pricing Model](https://jacksonamrobeson.blogspot.com/2026/09/building-credit-risk-dashboard-in-power.html)
 
-![Dashboard overview](<img width="604" height="335" alt="dashboard-overview" src="https://github.com/user-attachments/assets/f5fce013-6ae8-4f4e-884f-c682e3d23166" />
-)
-
+![Dashboard overview](images/dashboard-overview.png)
 
 ## Key finding
 
@@ -81,9 +79,9 @@ Supporting columns: `Term Months` (numeric loan length from the text `term`), `M
 
 ## Data and files
 
-- **Source:** LendingClub consumer loan data, 2007-2018, from [Kaggle](PASTE-KAGGLE-DATASET-URL-HERE). The raw file (145 columns, about 1.1 GB) is not included.
+- **Source:** LendingClub consumer loan data, 2007-2018, from [Kaggle](https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv). The raw file (145 columns, about 1.1 GB) is not included.
 - **Prep:** the raw CSV was trimmed to 29 relevant columns with Python (with AI assistance) before loading into Power BI. The original ID field was blank in this version of the data, so a sequential loan ID was generated.
-- **Power BI file (.pbix):** 111 MB, so it is on the [Releases page](PASTE-RELEASES-URL-HERE) rather than in the repo.
+- **Power BI file (.pbix):** 111 MB, so it is on the [Releases page](https://github.com/jacksonamrobeson/lending-club-credit-risk-powerbi/releases) rather than in the repo.
 
 ## Tools
 
@@ -96,3 +94,5 @@ Part of my self-directed portfolio of finance and analytics projects: [Jackson R
 ## License
 
 MIT
+
+
