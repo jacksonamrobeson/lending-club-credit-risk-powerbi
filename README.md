@@ -2,7 +2,7 @@
 
 Power BI analysis of **2.26 million LendingClub consumer loans (2007-2018)**, built to answer one question: does a lender's pricing compensate for the risk it takes on?
 
-**Full write-up:** [Building a Credit Risk Dashboard in Power BI: 2.26 Million Loans Reveal Key Findings in Pricing Model](PASTE-BLOG-POST-URL-HERE)
+**Full write-up:** [Building a Credit Risk Dashboard in Power BI: What 2.26 Million Loans Reveal About a Pricing Gap at the Riskiest Grades] (https://jacksonamrobeson.blogspot.com/2026/09/building-credit-risk-dashboard-in-power.html)
 
 ![Dashboard overview](images/dashboard-overview.png)
 
