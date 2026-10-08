@@ -81,7 +81,7 @@ Supporting columns: `Term Months` (numeric loan length from the text `term`), `M
 
 - **Source:** LendingClub consumer loan data, 2007-2018, from [Kaggle](https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv). The raw file (145 columns, about 1.1 GB) is not included.
 - **Prep:** the raw CSV was trimmed to 29 relevant columns with Python (with AI assistance) before loading into Power BI. The original ID field was blank in this version of the data, so a sequential loan ID was generated.
-- **Power BI file (.pbix):** 111 MB, so it is on the [Releases page](https://github.com/jacksonamrobeson/lending-club-credit-risk-powerbi/releases) rather than in the repo.
+- **Power BI file (.pbix):** 111 MB, so it is on the [Releases page](https://github.com/jacksonamrobeson/lending-club-credit-risk-powerbi/releases/tag/v1.0) rather than in the repo.
 
 ## Tools
 
