@@ -4,7 +4,8 @@ Power BI analysis of **2.26 million LendingClub consumer loans (2007-2018)**, bu
 
 **Full write-up:** [Building a Credit Risk Dashboard in Power BI: What 2.26 Million Loans Reveal About a Pricing Gap at the Riskiest Grades] (https://jacksonamrobeson.blogspot.com/2026/09/building-credit-risk-dashboard-in-power.html)
 
-![Dashboard overview](images/dashboard-overview.png)
+![Dashboard overview](<img width="604" height="335" alt="image" src="https://github.com/user-attachments/assets/0c2e6c75-1735-446c-b189-99cde1c5dd68" />)
+
 
 ## Key finding
 
